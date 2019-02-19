@@ -1,0 +1,43 @@
+#roastForm {
+	background: whitesmoke url('../img/') no-repeat fixed bottom left;
+	background-size: cover;
+/*	background-color: whitesmoke;*/
+}
+
+.fas {
+	color: #ffc107;
+	/*padding-right: 4px;*/
+}
+
+.carousel-inner {
+	display: inline-block;
+	height: 30%;
+	width: 30%;
+}
+
+#pageHeader {
+	display: inline;
+	align-items: flex-end;
+}
+
+#imageContainer {
+	display: inline;
+	align-items: flex-start;
+}
+
+img {
+	height: 500px;
+	width: auto;
+	display: inline-block;
+	padding: 10px 5px;
+	/*border: 3px solid #ffc107;*/
+}
+
+#hrDivider {
+	border: 5px solid #212529;
+	border-radius: 5px;
+}
+
+#roastForm {
+	margin-top: 10px;
+}
